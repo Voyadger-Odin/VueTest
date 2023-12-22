@@ -36,7 +36,7 @@ export default {
     bottom: 0;
     left: 0;
     right: 0;
-    background: rgba(0, 0, 0, 0.5);
+    background: rgba(0, 0, 0, 0.2);
     position: fixed;
     display: flex;
   }
@@ -48,6 +48,6 @@ export default {
     border-radius: 8px;
     min-width: 300px;
     min-height: 100px;
-    box-shadow: 0px 8px 40px 0px rgba(0, 0, 0, 0.30);
+    box-shadow: 0px 8px 40px 0px rgba(0, 0, 0, 0.50);
   }
 </style>
